@@ -1,0 +1,50 @@
+site_name: Documentation
+
+
+
+extra_javascript: 
+    - https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML
+
+markdown_extensions:
+    - mdx_math
+
+
+
+theme:
+  name: 'rtd-dropdown'
+  highlightjs: true
+  hljs_languages: []
+  include_homepage_in_sidebar: true
+  prev_next_buttons_location: bottom
+  navigation_depth: 4
+  titles_only: false
+  sticky_navigation: true
+  collapse_navigation: true
+ 
+ 
+  
+      
+markdown_extensions:
+  - codehilite:
+      linenums: false
+      guess_lang: false
+      use_pygments: true
+      noclasses: true
+      pygments_style: manni
+
+
+nav:
+- Home: index.md
+- Chapter 1: chapter1.md
+- Chapter 2: chapter2.md
+- Chapter 3: chapter3.md
+- Chapter 4: chapter4.md
+- Chapter 5: chapter5.md
+- Chapter 6: chapter6.md
+- Chapter 7: chapter7.md
+- Chapter 8: chapter8.md
+- Chapter 9: chapter9.md
+- Chapter 10: chapter10.md
+- References: references.md
+
+  
