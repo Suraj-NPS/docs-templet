@@ -1,6 +1,6 @@
-# Chapter 4
+# Sample Chapter 4
 
-This is chapter one. Some text here...
+This is chapter 4. Some text here...
 
 ### 4.1 Subtopics
 

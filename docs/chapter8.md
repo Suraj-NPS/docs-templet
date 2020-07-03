@@ -1,6 +1,6 @@
-# Chapter 8
+# Sample Chapter 8
 
-This is chapter one. Some text here...
+This is chapter 8. Some text here...
 
 ### 8.1 Subtopics
 

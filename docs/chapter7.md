@@ -1,6 +1,6 @@
-# Chapter 7
+# Sample Chapter 7
 
-This is chapter one. Some text here...
+This is chapter 7. Some text here...
 
 ### 7.1 Subtopics
 
